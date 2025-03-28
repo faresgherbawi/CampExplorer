@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Demo](https://your-username.github.io/CampExplorer/)
+🔗 [View Demo](https://faresgherbawi.github.io/CampExplorer/)
 
 
 ## 📌 Features
