@@ -1,4 +1,4 @@
-# CampExplorer Landing Page
+# CampExplorer 🏕️ Landing Page 
 
 ### A modern landing page for CampExplorer, built using HTML, CSS, and JavaScript.
 
@@ -13,7 +13,7 @@
 - Smooth animations and transitions 🎨  
 - Interactive UI with JavaScript ✨  
 - Mobile-friendly navigation 📱  
-- Menu showcase and contact section 🍔  
+- Menu showcase and contact section  
 
 
 ## 🛠️ Technologies Used
